@@ -40,7 +40,7 @@ I'm a data analyst who turns raw datasets into clear, actionable insights. I enj
 ## 📊 GitHub Stats
 
 ![Beena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beenafrancis0797-byte&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beenafrancis0797-byte&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beenafrancis0797-byte&layout=compact&hide_border=true&hide=html)
 
 ---
 
